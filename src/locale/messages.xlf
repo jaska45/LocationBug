@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="2.0" xmlns="urn:oasis:names:tc:xliff:document:2.0" srcLang="en-US">
+  <file id="ngi18n" original="ng.template">
+    <unit id="3067469718492071419">
+      <segment>
+        <source>This is a sample</source>
+      </segment>
+    </unit>
+    <unit id="5855772298569654559">
+      <notes>
+        <note category="location">src/app/app.component.js:23</note>
+        <note category="description">Comment</note>
+      </notes>
+      <segment>
+        <source>This is a sample with a comment</source>
+      </segment>
+    </unit>
+  </file>
+</xliff>
